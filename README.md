@@ -57,7 +57,7 @@ Docker • Vercel • GitHub Actions • Azure Functions • AWS
 
 - 🖥️ Portfolio: [blucoder.cc](https://www.blucoder.cc/)
 - 💼 [LinkedIn](#)
-- 📬 Email: [your.email@example.com]
+- 📬 Email: [olad0021@algonquinlive.com]
 
 ---
 
