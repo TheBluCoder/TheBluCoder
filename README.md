@@ -56,7 +56,7 @@ Docker • Vercel • GitHub Actions • Azure Functions • AWS
 ## 🌐 Find Me Here
 
 - 🖥️ Portfolio: [blucoder.cc](https://www.blucoder.cc/)
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ikeoluwa-oladele-15100820a/)
 - 📬 Email: [olad0021@algonquinlive.com]
 
 ---
