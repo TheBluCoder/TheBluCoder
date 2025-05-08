@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://res.cloudinary.com/dao2elffs/image/upload/v1746708177/cartoon_ux9jht.png" width="100" alt="blucoder profile pic">
 </p>
-![snake game activity](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   💻 Full Stack Dev | 🧠 AI enthusiast | ⚙️ Poet (sometimes) <br>
