@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💻 Full Stack Dev | 🧠 AI enthusiast | ⚙️ Poet (sometimes) <br>
+  💻 Full Stack Dev | 🧠 AI enthusiast |  Poet (sometimes) <br>
   🚀 Building things that talk back (sometimes too much)
 </p>
 
