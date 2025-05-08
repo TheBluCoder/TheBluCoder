@@ -1,0 +1,40 @@
+name: generate animation
+
+on:
+  # Runs every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+    
+  # Allows manual triggering
+  workflow_dispatch:
+
+  # Also runs on push to main branch
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # Generate snake SVGs
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: theBluCoder
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Push the generated files to output branch
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        
