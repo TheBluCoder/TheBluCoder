@@ -8,10 +8,8 @@
   💻 Full Stack Dev | 🧠 AI enthusiast | ⚙️ Poet (sometimes) <br>
   🚀 Building things that talk back (sometimes too much)
 </p>
-### 🐍 My Contribution Snake
-
 ![GitHub Snake Light](https://github.com/theBluCoder/theBluCoder/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake Dark](https://github.com/theBluCoder/theBluCoder/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 
 ---
