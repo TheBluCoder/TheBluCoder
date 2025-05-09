@@ -48,8 +48,8 @@ Docker • Vercel • GitHub Actions • Azure Functions • AWS
 ## 🎨 Fun Facts
 
 - 🧠 Favorite Model: **Gemini**, but Phi is a close second.
-- 📝 I write poems when I'm not writing code.
-- 📺 Probably rewatching *One punchman* for the nth time.
+- 🎮 I am NOT a gamer. I occassionally play fifa though  
+- 🎧 my favorite classical piece right now is Humoresque by Antonin Dvorak   
 
 ---
 
