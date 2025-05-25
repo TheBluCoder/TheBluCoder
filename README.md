@@ -19,7 +19,7 @@
 
 ## 🧠 Current Projects (currently working on) 
 
-- **⚡ Helium DSL** – A domain-specific language for orchestrating LLMs with multimodal input, caching, and model switching.
+- **⚡ Neon DSL** – A domain-specific language for orchestrating LLMs with multimodal input, caching, and model switching.
 - **🧩 AI Quiz Generator** – Turn your PDFs into timed quizzes using Google Gemini, vector DBs, and auto-grading magic.
 ---
 
