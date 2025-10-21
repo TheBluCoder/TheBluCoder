@@ -19,7 +19,7 @@
 
 ## 🧠 Current Projects (currently working on) 
 
-- **⚡ Eventify ** – A a geolocation-based event discovery mobile application. It enables users to explore, create, and engage with events happening nearby or in regions they follow. Events are displayed on an interactive map with filtering, following, and reminder functionalities. The app bridges both hyperlocal (e.g., garage sales, uni hackathons) and global events (e.g., concerts, tech expos) to create a unified event discovery experience.
+**⚡Eventify** – A a geolocation-based event discovery mobile application. It enables users to explore, create, and engage with events happening nearby or in regions they follow. Events are displayed on an interactive map with filtering, following, and reminder functionalities. The app bridges both hyperlocal (e.g., garage sales, uni hackathons) and global events (e.g., concerts, tech expos) to create a unified event discovery experience.
 
 ---
 
