@@ -19,37 +19,28 @@
 
 ## 🧠 Current Projects (currently working on) 
 
-- **⚡ Neon DSL** – A domain-specific language for orchestrating LLMs with multimodal input, caching, and model switching.
+- **⚡ Eventify ** – A a geolocation-based event discovery mobile application. It enables users to explore, create, and engage with events happening nearby or in regions they follow. Events are displayed on an interactive map with filtering, following, and reminder functionalities. The app bridges both hyperlocal (e.g., garage sales, uni hackathons) and global events (e.g., concerts, tech expos) to create a unified event discovery experience.
 
 ---
 
 ## 🛠️ Tech I Work With
 
 ### 🧪 Frontend  
-Vue • Nuxt • Tailwind CSS • Inertia.js
+Vue • Nuxt • Tailwind CSS • Inertia.js • Flutter
 
 ### 🧠 AI / LLM  
 Google GenAI SDK • LangChain • Azure AI Foundry • Hugging Face • Pinecone • Marqo • Ollama • Python
 
 ### ⚙️ Backend  
-Laravel • FastAPI • PostgreSQL • RESTful APIs. Redis
+Laravel • FastAPI • PostgreSQL • Golang
 
 ### 🚀 DevOps  
-Docker • Vercel • GitHub Actions • Azure Functions • AWS 
+Docker • Vercel • GitHub Actions • Azure Functions • AWS • Supabase • Firebase 
 
 ---
 
 ## 🌱 Currently Learning
-- AI agent orchestration and multi-model flows
-- Compiler internals (without crying)
-
----
-
-## 🎨 Fun Facts
-
-- 🧠 Favorite Model: **Gemini**, but Phi is a close second.
-- 🎮 I am NOT a gamer. I occassionally play fifa though  
-- 🎧 my favorite classical piece right now is Humoresque by Antonin Dvorak   
+- Flutter for mobile development
 
 ---
 
