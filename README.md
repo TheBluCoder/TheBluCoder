@@ -32,9 +32,9 @@ Vue • Nuxt • Tailwind CSS • Inertia.js • Flutter
 Google GenAI SDK • LangChain • Azure AI Foundry • Hugging Face • Pinecone • Marqo • Ollama • Python
 
 ### ⚙️ Backend  
-Laravel • FastAPI • PostgreSQL • Golang
+Laravel • FastAPI • Golang
 
-### 🚀 DevOps  
+### 🚀 DevOps & Deployment Tools
 Docker • Vercel • GitHub Actions • Azure Functions • AWS • Supabase • Firebase 
 
 ---
