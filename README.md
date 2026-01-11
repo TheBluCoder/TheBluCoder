@@ -1,8 +1,4 @@
 <h1 align="center">Hey, I'm Blu 👨‍💻</h1>
-<p> A second year Computer engineering technology-computing science student(CETCS) at Algonquin College, Ottawa.
-<p align="center">
-  <img src="https://res.cloudinary.com/dao2elffs/image/upload/v1746708177/cartoon_ux9jht.png" width="100" alt="blucoder profile pic">
-</p>
 
 <p align="center">
   💻 Full Stack Dev | 🧠 AI enthusiast |  Poet (sometimes) <br>
