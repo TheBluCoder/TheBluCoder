@@ -1,4 +1,4 @@
-<div align="center">
+<div >
 
 <h1>
   Hi
@@ -10,6 +10,7 @@
   I'm Ikeoluwa
 </h1>
 
+<div align="center">
 <h3>I build the tool I wish existed.</h3>
 
 <p>Software developer based in Ottawa.</p>
@@ -27,6 +28,7 @@
 <br />
 
 <sub>Click the door to enter my portfolio</sub>
+</div>
 
 </div>
 
